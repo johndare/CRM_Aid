@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72315" started-at="2019-07-25T13:58:59Z" finished-at="2019-07-25T14:00:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72315" started-at="2019-07-25T13:58:59Z" finished-at="2019-07-25T14:00:11Z">
+      <class name="testCases.DeleteAllContactsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.DeleteAllContactsTest@75bd9247]" name="setUp" is-config="true" duration-ms="37127" started-at="2019-07-25T19:28:59Z" finished-at="2019-07-25T19:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectCheckBox1()[pri:1, instance:testCases.DeleteAllContactsTest@75bd9247]" name="selectCheckBox1" duration-ms="4125" started-at="2019-07-25T19:29:36Z" finished-at="2019-07-25T19:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCheckBox1 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.DeleteAllContactsTest@75bd9247]" name="setUp" is-config="true" duration-ms="28071" started-at="2019-07-25T19:29:40Z" finished-at="2019-07-25T19:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectCheckBox2()[pri:2, instance:testCases.DeleteAllContactsTest@75bd9247]" name="selectCheckBox2" duration-ms="2938" started-at="2019-07-25T19:30:08Z" finished-at="2019-07-25T19:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCheckBox2 -->
+      </class> <!-- testCases.DeleteAllContactsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
